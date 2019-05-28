@@ -2,16 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a7a0d84-77bb-4aa3-aae3-fa9da6d587fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greet-web-app/src/main/java/net/greet/web/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greet-web-app/src/main/java/net/greet/web/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../teachers_db/src/test/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/src/main/java/hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/src/main/java/hello/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/src/main/java/hello/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/src/main/java/hello/GreetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/src/main/java/net/myfirst/webapp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/src/main/java/net/myfirst/webapp/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/src/main/java/net/myfirst/webapp/h2/database/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/src/main/resources/db/migration/V1__Create_Users_Table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/src/main/resources/db/migration/V2__Insert_Users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/src/main/resources/templates/hello.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstJavaWebApp/src/test/java/net/myfirst/webapp/h2/database/DBConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../football-log/src/main/java/log/tournament/Fixture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../football-log/src/main/java/log/tournament/FixtureGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../football-log/src/main/java/log/tournament/PremierSoccerLeague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../football-log/src/test/java/log/tournament/PremierSoccerLeagueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/META-INF/Bicycle.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/BicycleBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/BicycleBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/BicycleFromSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/BicycleSpecification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/BicycleType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/BicycleType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/production/Bicycle/bicycles/BikeRide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/test/Bicycle/bicycles/BicycleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/out/test/Bicycle/bicycles/BicycleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/out/test/Bicycle/bicycles/BikeRideTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/bicycles/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/bicycles/BicycleBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/src/bicycles/BicycleBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/bicycles/BicycleFromSpec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/bicycles/BicycleSpecification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/bicycles/BicycleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/src/bicycles/BicycleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/src/bicycles/BikeRide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/tests/bicycles/BicycleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bicycle/tests/bicycles/BicycleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bicycle/tests/bicycles/BikeRideTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortAndSwap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/.idea/google-java-format.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/jsTestFinder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/out/production/elevator/elevator/Elevator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/out/production/elevator/elevator/Elevator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/out/production/elevator/elevator/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/out/production/elevator/elevator/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/out/test/elevator/elevator/ElevatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/out/test/elevator/elevator/ElevatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/out/test/elevator/elevator/ExampleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/out/test/elevator/elevator/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/src/elevator/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/src/elevator/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/src/elevator/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/src/elevator/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/tests/elevator/ElevatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../elevator/tests/elevator/ElevatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/tests/elevator/ExampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elevator/tests/elevator/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-log/src/main/java/log/clubs/FootballClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../football-log/src/main/java/log/clubs/FootballClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-log/src/main/java/log/tournament/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/../football-log/src/main/java/log/tournament/League.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-log/src/test/java/log/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../football-log/src/test/java/log/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../greet-in-java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../greet-in-java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../greet-in-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/GreetMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/Language.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/counter/DbCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/counter/GreetCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/greet/CommandBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/greet/GreetPeople.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/greet/GreetPeopleHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/java/greet/greet/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/main/resources/db/migration/V2__add_name.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../greet-in-java/src/main/resources/db/migration/V2__add_name.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/test/java/greet/GreetCounterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/test/java/greet/GreetPeopleHashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/test/java/greet/GreetPeopleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/test/java/greet/greet/CommandBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greet-in-java/src/test/java/greet/main/StringMethodsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-koans/koans/src/intermediate/AboutLocale.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-koans/koans/src/intermediate/AboutLocale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Learner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Learner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Lessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Lessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/main/java/teachers_learners_lessons/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/LearnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/LearnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/LessonsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/LessonsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/TeacherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/TeacherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/lib/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teachers-learners-lessons/src/test/java/teachers_learners_lessons/lib/Register.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,65 +101,63 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.51379764">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="434">
+                  <caret line="55" column="34" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="34" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="29" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="29" />
+                  <folding>
+                    <element signature="method#swapFirstWithSecond#0;class#SwapMe#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,20 +167,27 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="714" />
@@ -125,27 +210,6 @@
               <item name="SortAndSwap" type="b2602c69:ProjectViewProjectNode" />
               <item name="SortAndSwap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SortAndSwap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortAndSwap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SortAndSwap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortAndSwap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SortAndSwap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortAndSwap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sortandswap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SortAndSwap" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +240,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559034719070" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -195,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SwapMeTest">
+  <component name="RunManager" selected="JUnit.SwapMeTest.swapNeighboursShouldWork">
     <configuration name="SwapMeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SortAndSwap" />
       <extension name="coverage">
@@ -261,10 +327,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SwapMeTest" />
         <item itemvalue="JUnit.SwapMeTest.swapNeighboursShouldWork" />
-        <item itemvalue="JUnit.SwapMeTest.swapFirstWithSecondShouldWork" />
         <item itemvalue="JUnit.SwapMeTest.swapFirstWithLastShouldWork" />
+        <item itemvalue="JUnit.SwapMeTest.swapFirstWithSecondShouldWork" />
+        <item itemvalue="JUnit.SwapMeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -282,58 +348,63 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SwapMeTest - 2019.05.28 at 08h 30m 13s.xml">
-      <configuration name="SwapMeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapFirstWithLastShouldWork - 2019.05.28 at 08h 30m 51s.xml">
-      <configuration name="SwapMeTest.swapFirstWithLastShouldWork" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapFirstWithSecondShouldWork - 2019.05.28 at 08h 31m 59s.xml">
-      <configuration name="SwapMeTest.swapFirstWithSecondShouldWork" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapFirstWithSecondShouldWork - 2019.05.28 at 08h 32m 29s.xml">
-      <configuration name="SwapMeTest.swapFirstWithSecondShouldWork" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 35m 51s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 27m 37s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 37m 15s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 28m 44s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 38m 16s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 29m 50s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 40m 53s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 30m 05s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 43m 01s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 30m 18s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest - 2019.05.28 at 08h 44m 13s.xml">
-      <configuration name="SwapMeTest" configurationId="JUnit" />
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 30m 52s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 32m 33s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 33m 38s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 34m 48s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 37m 55s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="714" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Quokka" />
+      <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36173633" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.360496" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30292293" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329582" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32949513" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -345,49 +416,44 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="289">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="434">
+          <caret line="55" column="34" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
+            <element signature="method#swapFirstWithSecond#0;class#SwapMe#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
